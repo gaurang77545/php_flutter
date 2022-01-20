@@ -2,7 +2,7 @@
 
 include 'conn.php';
 
-$uid=$_POST['uid'];
+$uid=$_POST['uid'];//Access uid
 $name=$_POST['name'];
 $mobile=$_POST['mobile'];
 $email=$_POST['email'];
